@@ -1,2 +1,2 @@
 # street-view-imagery-as-attachments
-Add  google street view snips to a road layer in arcgis online
+Add  google street view snip attachments to a road layer in arcgis online
